@@ -90,7 +90,7 @@ function final_touchup() {
 		(cd ${main} && 7z x file &>/dev/null)& spinner
 
 	done
-        printf "\n${green}>>${white} simply run : shark \n\n ${nc}"
+        printf "\n${green}>>${white} simply run : sharkmac \n\n ${nc}"
 }
 printf "${yellow}Please Wait.\n\n[!] Don't terminate this task.\n"
 os
