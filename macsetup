@@ -83,7 +83,7 @@ function setup_cloudflare() {
 }
 
 function final_touchup() {
-	for i in shark; do
+	for i in sharkmac; do
 		chmod +x ${main}/${i}
 		mv ${main}/${i} ${BIN}
 		launch="setting up files"; splashdown="done";echo
