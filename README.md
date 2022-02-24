@@ -26,4 +26,4 @@
 #### <p align="center"> ``` sudo wget -qO- https://github.com/E343IO/sharkmac/raw/main/macsetup | sudo bash ```
 #### <p align="center"> **Note**:- Make sure you have done updated your system before using the tool.
 ### <p align="center"> ***Glimpse:-*** <img src="https://media.giphy.com/media/l3JDPrKf8VF69nzri/giphy.gif" width="" height="50" >
-<p align="center"> <img src="https://media.giphy.com/media/hnqWzpJ34xArYut26j/giphy.gif">
+<p align="center"><a href="https://github.com/E343IO/"><img src="https://drive.google.com/u/4/uc?id=17WYsIDktAA-6qkrN9BCBUKrfrJKow5P8&export=download.gif">
